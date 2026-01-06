@@ -36,6 +36,7 @@ It helps users track daily habits, monitor consistency, and analyze progress ove
 ```bash
 git clone https://github.com/Harshita-Verma09/Full_Stack_MERN_2_Habit_Heatmap_Tracker.git
 
+```
 ## Usage
 
 ### Features
@@ -82,4 +83,5 @@ The `date` field is stored as a **Date** type because:
 
 Using `Date` improves **performance, scalability, and data accuracy**.
 ```
+
 
